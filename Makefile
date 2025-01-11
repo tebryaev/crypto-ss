@@ -1,6 +1,6 @@
 .PHONY: build run install
 
-BINARY=crypto-ss
+BINARY=seedler
 OUTDIR=bin
 
 all: build
